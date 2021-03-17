@@ -1,5 +1,5 @@
 {
-"version": "AG v1",
+"version": "AGI v2",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "6",
@@ -31,9 +31,9 @@
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "269229034695120_269230518028305",
-	"FanBanner": "269229034695120_269229674695056",
-	"FanReward": "269229034695120_269231221361568",
+	"FanInter": "934364510435723_934365767102264",
+	"FanBanner": "934364510435723_934364907102350",
+	"FanReward": "934364510435723_934365970435577",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
