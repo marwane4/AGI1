@@ -27,7 +27,7 @@
 
 "onesignal stuff": "hna key dyal onesignal ",
 
-"Onesignalkey": "d1fcb27e-1d31-4b47-944d-5e5a37e807ee",
+"Onesignalkey": "9964e9d0-c6b0-4762-b321-941d2bfc1ad9",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
